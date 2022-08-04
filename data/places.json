@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Keventers",
+    "category": "drinks",
+    "ico":"cafe",
+    "distance": 0.2,
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "title": "McDonalds",
+    "category": "food",
+    "ico":"fast-food",
+    "distance": 0.3,
+    "rating": 3.5
+  },
+  {
+    "id": 3,
+    "title": "Burgerking",
+    "category": "food",
+    "ico":"fast-food",
+    "distance": 0.5,
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "title": "Starbucks",
+    "category": "drinks",
+    "ico":"cafe",
+    "distance": 0.6,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Dominos",
+    "category": "food",
+    "ico":"pizza",
+    "distance": 0.8,
+    "rating": 4.0
+  }
+]
